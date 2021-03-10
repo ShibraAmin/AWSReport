@@ -3,7 +3,7 @@ from collections import defaultdict
 import boto3
 
 """
-A tool for retrieving basic information from the running EC2 instances.
+A tool for retrieving basic information from the running EC2 and S3 instances.
 """
 
 # Connect to EC2
